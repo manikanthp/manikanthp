@@ -7,11 +7,11 @@ I love to solve problems and I am always open to learn new things.
 
 [![Linkedin Badge](https://img.shields.io/badge/-manikanthp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)](https://www.linkedin.com/in/manikanth123/)
 [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=/https://github.com/manikanthp)](https://github.com/manikanthp)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=/https://twitter.com/TadakaSuryaTeja)](https://twitter.com/manikanth559)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-blue?style=flat-square&logo=Gitlab&logoColor=white&link=/https://gitlab.com/suryateja233)](https://gitlab.com/suryateja233)
-[![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white&link=/https://bitbucket.org/tadaka_surya_teja/)](https://bitbucket.org/tadaka_surya_teja/)
-[![Website Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Resume&logoColor=white&link=/https://tadakasuryateja.mystrikingly.com/)](https://tadakasuryateja.mystrikingly.com/)
-[![Gmail Badge](https://img.shields.io/badge/-suryateja233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manikanthgoud123@gmail.com)](mailto:manikanthgoud123@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=/https://twitter.com/manikanthgoud3)](https://twitter.com/manikanthgoud3)
+[![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white&link=/https://bitbucket.org/manikanthp/)](https://bitbucket.org/manikanthp/)
+[![Website Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Website&logoColor=white&link=/https://manikanthp.github.io/)](https://manikanthp.github.io/)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-c14438?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/manikanthgoud)](https://www.kaggle.com/manikanthgoud)
+[![Gmail Badge](https://img.shields.io/badge/-manikanthgoud123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manikanthgoud123@gmail.com)](mailto:manikanthgoud123@gmail.com)
 
 - Hands-on experience in Machine Learning and Artificial Intelligence
 - I am a fast learner, I can quickly adapt to new technologies and environments
