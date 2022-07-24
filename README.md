@@ -5,11 +5,12 @@ I am a Data Analyst at Wipro Limited, India. I am a self-taught programmer, and 
 I love to solve problems and I am always open to learn new things.
 </p>
 
+
+[![Website Badge](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Website&logoColor=white&link=/https://manikanthp.github.io/)](https://manikanthp.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-manikanthp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)](https://www.linkedin.com/in/manikanth123/)
 [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=/https://github.com/manikanthp)](https://github.com/manikanthp)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=/https://twitter.com/manikanthgoud3)](https://twitter.com/manikanthgoud3)
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white&link=/https://bitbucket.org/manikanthp/)](https://bitbucket.org/manikanthp/)
-[![Website Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Website&logoColor=white&link=/https://manikanthp.github.io/)](https://manikanthp.github.io/)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-c14438?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/manikanthgoud)](https://www.kaggle.com/manikanthgoud)
 [![Gmail Badge](https://img.shields.io/badge/-manikanthgoud123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manikanthgoud123@gmail.com)](mailto:manikanthgoud123@gmail.com)
 
@@ -31,8 +32,6 @@ I love to solve problems and I am always open to learn new things.
 <img alt="android" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img alt="Java" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img alt="iOS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img alt="Git" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -42,31 +41,23 @@ I love to solve problems and I am always open to learn new things.
 </p>
 <hr class="dashed">
 
-![Surya's Github stats](https://github-readme-stats.vercel.app/api?username=TadakaSuryaTeja&show_icons=true&theme=radical)
+![Manikanth's Github stats](https://github-readme-stats.vercel.app/api?username=manikanthp&show_icons=true&theme=radical)
 
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=TadakaSuryaTeja&layout=compact&theme=radical)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=manikanthp&layout=compact&theme=radical)
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/krushnatkhawale/github-readme-stats)*
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TadakaSuryaTeja&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manikanthp&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/manikanthp/github-profile-trophy)
 <hr class="dashed">
 
 ### 📕 Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3](https://medium.com/@suryateja233/amazon-s3-b8087028e8e8)
-- [Installing Windows 11](https://medium.com/@suryateja233/installing-windows-11-ecf8e0a239c0)
-- [Creating a Bootable USB Device](https://medium.com/@suryateja233/installing-operating-system-in-any-machine-265c4fad1a61)
+- [CGANs deployed using Flask](https://medium.datadriveninvestor.com/pix2pix-image-to-image-translation-with-a-conditional-gan-428878c40d3)
+- [Google quest quesiton and answer labelling](https://manikanthgoud123.medium.com/google-quest-q-a-labeling-kaggle-competition-d205bea1e026)
+- [Evaluation Metrics for supervised Learning](https://manikanthgoud123.medium.com/evaluation-metrics-for-supervised-learning-3f2c756666af)
 <!-- BLOG-POST-LIST:END -->
 
 
 ### Online Resume Template Profiles:
 <!-- RESUMES-LIST:START -->
-- [Website Using Strikingly](https://tadakasuryateja.mystrikingly.com/)
-- [Website Using HTML,JS,CSS and BOOTStrap](https://tadakasuryateja.github.io/Surya_teja_tadaka/)
-- [Website Using Three.js](https://tadakasuryateja.github.io/Three_js_learning/)
-- [TODO Application Using Django](https://tadakasuryateja.pythonanywhere.com/)
-- [Resume Web Page Using Figma](https://www.figma.com/proto/0u8SqV8yfTA2uUeXvEjXC4/Portfolio?node-id=72%3A1792&scaling=scale-down&page-id=0%3A1&starting-point-node-id=72%3A1792&show-proto-sidebar=1)
-<!---
-TadakaSuryaTeja/TadakaSuryaTeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Website Using Jekyll](https://manikanthp.github.io/)
+- [Medium Blogs](https://manikanthgoud123.medium.com/)
+- [Link Tree](https://linktr.ee/manikanthp)
