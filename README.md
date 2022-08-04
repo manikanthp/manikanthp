@@ -21,6 +21,7 @@ I love to solve problems and I am always open to learn new things.
 <p align="center" style="font-size:18px">Languages and Tools:</p>
 <p align="center">
 <img alt="python" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img alt="Keras" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg?20160918183624">
 <img alt="django" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 <img alt="linux" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <img alt="html" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
