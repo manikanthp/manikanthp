@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I’m Manikanth Palamakula 👨‍💻</h1>
 <hr class="dashed">
 <p>
-I am a Data Analyst at Wipro Limited, India. I am a self-taught programmer, and I am passionate about Machine learning, Deep Learning, AI and learning new technologies and building cool stuff.
+I am a specialist Data science at LTIMindtree, India. Self-taught programmer, and I am passionate about Machine learning, Deep Learning, AI and learning new technologies and building cool stuff.
 I love to solve problems and I am always open to learn new things.
 </p>
 
