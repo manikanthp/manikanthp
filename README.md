@@ -7,7 +7,7 @@ I love to solve problems and I am always open to learn new things.
 
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manikanthp.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-manikanthp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)](https://www.linkedin.com/in/manikanth123/)
+[![Linkedin Badge](https://img.shields.io/badge/-manikanthp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)](https://www.linkedin.com/in/manikanthp559/)
 [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=/https://github.com/manikanthp)](https://github.com/manikanthp)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=/https://twitter.com/manikanthgoud3)](https://twitter.com/manikanthgoud3)
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white&link=/https://bitbucket.org/manikanthp/)](https://bitbucket.org/manikanthp/)
